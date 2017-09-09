@@ -1,11 +1,13 @@
-#Author          Lolmattylol
-#Creation date   08/09/2017
-#Verion No       1.01
-#Contact info    reddit:lolmattylol
-#if you modify this for the better, please consider sharing with the community over at reddit.com/r/prisonarchitect
-#Version No     Date of Change  Author          Change
-#1.00           08/09/2017      lolmattylol     Created first version to prove concept
-#1.01           09/09/2017      lolmattylol     added DeathRowGUI to create simple graphical user interface
+'''Author          Lolmattylol
+Creation date   08/09/2017
+Verion No       1.01
+Contact info    reddit:lolmattylol
+if you modify this for the better, please consider sharing with the community over at reddit.com/r/prisonarchitect
+Version No     Date of Change   Author          Change
+1.00           08/09/2017       lolmattylol     Created first version to prove concept
+1.01           09/09/2017       lolmattylol     added DeathRowGUI to create simple graphical user interface
+1.02           09/09/2017       lolmattylol     Added option to enter individual prisoner ID
+'''
 
 import os
 from pathlib import Path
